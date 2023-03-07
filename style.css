@@ -1,0 +1,726 @@
+body
+{
+	background-image: url(imeg/1654281560.png);
+	height: auto;
+	width: auto;
+	 display: flex;
+  justify-content: center;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+
+
+li
+{
+	list-style: none;
+	cursor: pointer;
+}
+
+
+div
+{
+	
+	border-width: 1px;
+	border-color: #010101;
+	/*border-style: solid;*/
+}
+
+a
+{
+text-decoration: none;
+}
+
+h2
+{
+	margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+.box-hed1
+{
+display: flex;
+  	flex-direction: column;
+  	height: max-content;
+	width: 1010px;
+	background-color: #7a36c3;
+	margin-left: 30px;
+}
+
+.box-hed
+{
+	display: flex;
+  	flex-direction: column;
+  	height: max-content;
+	width: 1010px;
+	background-color: #5196DB;
+	margin-left: 30px;
+}
+
+
+.head-menu 
+{
+	padding-top: 3px;
+    padding-bottom: 3px;
+	width: 100%;
+    height: 81px;
+	display: flex;
+	background-color: #f9f825;
+ 
+}
+
+
+.img_bg1
+{
+background-size: cover;
+width: 80px;
+}
+
+.Logo-AUA
+{
+	background-image: url(imeg/create_a_modern_lo.png) ;
+	
+	margin-left: 4px;
+	width: 80px;
+}
+
+.head-anim-dox
+{
+	background-image: url(imeg/Z23a.gif) ;
+ 
+margin-left: 10px;
+background-size: cover;
+margin-right: 10px;
+    width: 85.297px;
+    height: 80px;
+
+}
+
+
+.Logo-anime{
+	background-image: url(imeg/8546956652.png);
+	width: 345px;
+	height: 55px;
+  margin-top:13px; 
+  margin-left:8px;
+  margin-right: 10px;
+	
+}
+
+.pisk
+{
+	border-width: 1px;
+    border-color: #010101;
+     border-style: solid;
+     border-radius: 25px;
+     text-align: center;
+
+	
+  width: 240px;
+    margin-top: 17px;
+    height: 40px;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+
+.pisk-k
+{
+	margin-top: 17px;
+  width: 100px;
+    height: 30px;
+	text-align: center;
+	padding-top: 9px;
+
+}
+
+.language
+{
+	margin-top: 17px;
+  width: 100px;
+    height: 30px;
+	text-align: center;
+	padding-top: 9px;
+}
+
+.rec
+{
+	
+    height: 310px;
+    width: 1010px;
+}
+
+
+.img_bg222
+{
+background-size: cover;
+width: 100%;
+  height: 100%;
+}
+
+.container
+{
+  height: 300px;
+    width: 1000px;
+  overflow: hidden;
+  border: 5px solid #c7c181;
+
+}
+
+.container .images
+{
+  width: 100%;
+  height: 100%;
+
+}
+
+.images img-tip
+{
+  width: 100%;
+  height: 100%;
+}
+
+
+
+.menu
+{
+	width: 1010px;
+    height: 40px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    display: flex;
+      justify-content: center;
+       background-color: #f9f825;
+}
+
+.menu_styie
+{
+border-color: #010101;
+    border-style: solid;
+	border-radius: 25px;
+	margin-right: 10px;
+	width: 100px;
+    height: 30px;
+	text-align: center;
+	padding-top: 9px;
+}
+
+
+
+
+
+.m_glava
+{
+    
+
+}
+
+.news
+{
+
+}
+
+.janr
+{
+
+}
+
+.god
+{
+
+}
+
+.mi
+{
+
+}
+
+
+.telo
+{
+width: 1010px;
+	max-width: 100%;
+   
+}
+
+.telo_top
+{
+	display: flex;
+  justify-content: space-evenly;
+  max-width: 100%;
+    flex-wrap: wrap;
+  align-content: flex-start;
+  height: 100%;
+  
+}
+
+.text_p
+{
+	margin-top: 1px;
+	margin-bottom: 1px;
+	color: white;
+}
+
+.title
+{
+background-color: #bf0de5;
+text-align: center ;
+  margin-bottom: 5px;
+  
+  border-radius: 25px;
+}
+
+.year
+{
+background-color: #bf0de5;
+text-align: center ;
+  border-radius: 25px;
+  margin-bottom: 5px;
+  width: 25%
+}
+
+.season
+{
+background-color: #bf0de5;
+text-align: center ;
+  border-radius: 25px;
+  margin-bottom: 5px;
+      height: 13%;
+    width: 41%;
+}
+
+.rating
+{
+	background-color: #bf0de5;
+text-align: center ;
+  border-radius: 25px;
+  margin-bottom: 5px;
+  width: 30%
+}
+
+.img_blok
+{
+	background-size:cover;
+margin-bottom: 10px;
+    width: 200px;
+    height: 300px;
+    border-width: 3px;
+    border-color: #ffed00;
+    border-style: solid;
+}
+
+.blok_a-href
+{
+	display: block;
+	height: 100%;
+}
+
+.anime_img-1
+{
+	background-image: url(img_anime_global/DeathNote_Anime.jpg);
+}
+.anime_img-2
+{
+	background-image: url(img_anime_global/1233441223q.jpg);
+}
+
+.anime_img-3
+{
+	background-image: url(img_anime_global/1633907713_1996198.jpeg);
+}
+
+.anime_img-4
+{
+background-image: url(img_anime_global/4f0f307b79ff3f9a750b9d1c4cb2a8.jpg);	
+}
+
+.anime_img-5
+{
+background-image: url(img_anime_global/f8deb4680f.jpg);	
+}
+
+.anime_img-6
+{
+background-image: url(img_anime_global/37345.jpg);	
+}
+
+.anime_img-7
+{
+background-image: url(img_anime_global/97ec9cd22ed1cde22db0f86fb1e124.jpg);	
+}
+
+.anime_img-8
+{
+background-image: url(img_anime_global/a36be14cc24859b2795361a67d60f5.jpg);	
+}
+
+.anime_img-9
+{
+background-image: url(img_anime_global/3346238d67397f88727edc00a35117.jpg);	
+}
+
+.anime_img-10
+{
+background-image: url(img_anime_global/3346238d67397f88727edc00a35117.jpg);	
+}
+
+.anime_img-11
+{
+background-image: url(img_anime_global/3346238d67397f88727edc00a35117.jpg);	
+}
+
+.anime_img-12
+{
+background-image: url(img_anime_global/3346238d67397f88727edc00a35117.jpg);	
+}
+
+.anime_img-13
+{
+background-image: url(img_anime_global/3346238d67397f88727edc00a35117.jpg);	
+}
+
+.anime_img-14
+{
+background-image: url(img_anime_global/3346238d67397f88727edc00a35117.jpg);	
+}
+
+
+.zagol1
+{
+	display: flex;
+	 justify-content: center;
+	background: #a99ffd5e;
+	margin-bottom: 10px;
+	padding-top: 1px;
+	height: 55px;
+	color: white;
+}
+
+.zagol
+{
+	display: flex;
+	 justify-content: center;
+	background: #e8d98e;
+	margin-bottom: 10px;
+	padding-top: 1px;
+	height: 55px;
+}
+
+.Opess
+{
+    width: 700px;
+    height: 305px;
+background: #e8d98e;
+}
+
+
+.Opess_2
+{
+	width: 922px;
+    height: 130px;
+     background: #e8d98e;
+
+     padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+     
+
+   
+}
+
+
+.sezon
+{
+	display: flex;
+	 justify-content: center;
+
+	 width: 942px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+	height: 50px;
+}
+
+.Menu_serii
+{
+	display: flex;
+  justify-content: center;
+
+    padding-top: 10px;
+    padding-left: 10px;
+   padding-bottom: 10px;
+
+	 width: 940px;
+    
+}
+
+.Cnopki_janru
+{
+	/*background-color: #ffae0d;
+	border-color: #4e4c97;
+    border-style: solid;
+	border-radius: 25px;
+	max-width: 100%;*/
+
+
+   color: #543608;
+    height: 29px;
+	/*text-align: center;*/
+	padding-top: 7px;
+	margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+
+    border-right-width: 0px;
+    border-bottom-width: 1px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+}
+
+.Cnopki_serii_1
+{
+	cursor: pointer;
+	background-color: #ffae0d;
+	border-color: #4e4c97;
+	
+    border-style: solid;
+	border-radius: 25px;
+	margin-right: 10px;
+	width: 100px;
+    height: 30px;
+	text-align: center;
+	padding-top: 9px;
+}
+
+.Cnopki_serii
+{
+   cursor: pointer;
+	background-color: #ffae0d;
+	border-color: #4e4c97;
+	
+    border-style: solid;
+	border-radius: 25px;
+	margin-right: 10px;
+	width: 50px;
+    height: 30px;
+	text-align: center;
+	padding-top: 9px;
+}
+
+.tv
+{
+	height: 466px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 20 20 20 20px;
+}
+
+.player
+{
+	
+	max-width: 100%;
+	position: revert;
+}
+
+
+
+.player video
+{
+	
+	width: 100%;
+	height: 100%;
+	top: 2.4%;
+	left: 1.8%;
+}
+
+
+.img_bg3
+{
+background-image: url(imeg/FoKZ8aXXg.jpg);
+background-size: cover;
+
+}
+
+
+
+.news_objct
+{
+	
+	display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+
+	/*background-color: #e8d98e;*/
+    margin-top: 20px;
+  width: 830px;
+	height: 500px;
+	margin-bottom: 10px;
+}
+
+.news_objct-jpg{
+	position: absolute;
+	z-index: 1;
+	width: 830px;
+    height: 500px;
+}
+
+
+.bloc-zgl{
+	width: 687px;
+}
+
+
+.bloc-zgl-1{
+	padding-left: 20px;
+	margin-top: 10px;
+
+}
+
+.bloc-zgl-2{
+	padding-left: 40px;
+	padding-bottom: 10px;
+}
+
+.bloc-news-1
+{
+display: flex;
+background: rgba(240, 188, 0, 0.7);
+position: relative;
+	z-index: 2;
+	width: 830px;
+}
+
+.bloc-news-2
+{
+	background: rgba(240, 188, 0, 0.7);
+	padding-top: 20px;
+	padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    margin-top: 100px;
+    position: relative;
+	z-index: 2;
+}
+
+.htps1{
+	display: block;
+    height: 100%;
+}
+
+.telegram
+{
+margin-top: 12px;
+    width: 50px;
+    height: 50px;
+
+}
+
+.telegram-png
+{
+	background-image: url(imeg/3488463.png);
+background-size: cover;
+}
+
+.bloc-link-1
+{
+	display: flex;
+}
+
+.bloc-date
+{
+	padding-top: 40px;
+    padding-bottom: 15px;
+}
+
+.dlj-txt1
+{
+width: 570px;
+}
+
+.img3321
+{
+width: 440px;
+  height: 1013px;
+}
+
+.dlj-img1
+{
+background-image: url(imeg/1polnii-rost-33.png);
+background-size: cover;
+}
+
+
+.txt-bg1
+{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.telo-txt-bg1
+{
+	color: white;
+	margin-top: 65px;
+    margin-left: 11px;
+}
+
+.telo-txt-bg2
+{
+	color: #86ff7e;
+	margin-left: 11px;
+}
+
+.telo-txt-min1
+{
+	margin-top: 20px;
+	margin-left: 11px;
+	color: #bcffb8;
+}
+
+.telo-buton1
+{
+	color: white;
+	margin-left: 45px;
+	border-color: #86ff7e;
+	background: #a99ffd5e;
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 4px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.podval
+{
+	width: 100%;
+    height: 50px;
+    background-color: #f9f825;
+}
+
+
+
+
+
+
+
+
