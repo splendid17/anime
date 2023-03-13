@@ -1,11 +1,14 @@
 body
 {
-	background-image: url(imeg/1654281560.png);
+	background-image: url(imeg/iopuoity54u.png);
+  background-repeat: round;
+
 	height: auto;
 	width: auto;
 	 display: flex;
   justify-content: center;
   font-family: Verdana, Helvetica, Arial, sans-serif;
+
 }
 
 
@@ -27,6 +30,7 @@ div
 a
 {
 text-decoration: none;
+color: #86ff7e;
 }
 
 h2
@@ -42,7 +46,7 @@ display: flex;
   	flex-direction: column;
   	height: max-content;
 	width: 1010px;
-	background-color: #7a36c3;
+	background-color: #292e29;
 	margin-left: 30px;
 }
 
@@ -52,7 +56,7 @@ display: flex;
   	flex-direction: column;
   	height: max-content;
 	width: 1010px;
-	background-color: #5196DB;
+	background-color: #292e29;
 	margin-left: 30px;
 }
 
@@ -64,7 +68,7 @@ display: flex;
 	width: 100%;
     height: 81px;
 	display: flex;
-	background-color: #f9f825;
+	background-color: #292e29;
  
 }
 
@@ -109,7 +113,7 @@ margin-right: 10px;
 .pisk
 {
 	border-width: 1px;
-    border-color: #010101;
+    border-color: #52db0bc2;
      border-style: solid;
      border-radius: 25px;
      text-align: center;
@@ -161,7 +165,7 @@ width: 100%;
   height: 300px;
     width: 1000px;
   overflow: hidden;
-  border: 5px solid #c7c181;
+  border: 5px solid #bffd9fc2;
 
 }
 
@@ -188,12 +192,12 @@ width: 100%;
     padding-bottom: 3px;
     display: flex;
       justify-content: center;
-       background-color: #f9f825;
+       background-color: #292e29;
 }
 
 .menu_styie
 {
-border-color: #010101;
+border-color: #52db0bc2;
     border-style: solid;
 	border-radius: 25px;
 	margin-right: 10px;
@@ -303,7 +307,7 @@ margin-bottom: 10px;
     width: 200px;
     height: 300px;
     border-width: 3px;
-    border-color: #ffed00;
+    border-color: #86ff7e;
     border-style: solid;
 }
 
@@ -387,7 +391,7 @@ background-image: url(img_anime_global/3346238d67397f88727edc00a35117.jpg);
 {
 	display: flex;
 	 justify-content: center;
-	background: #a99ffd5e;
+	background: #bffd9fc2;
 	margin-bottom: 10px;
 	padding-top: 1px;
 	height: 55px;
@@ -398,7 +402,7 @@ background-image: url(img_anime_global/3346238d67397f88727edc00a35117.jpg);
 {
 	display: flex;
 	 justify-content: center;
-	background: #e8d98e;
+	background: #bffd9fc2;
 	margin-bottom: 10px;
 	padding-top: 1px;
 	height: 55px;
@@ -408,7 +412,7 @@ background-image: url(img_anime_global/3346238d67397f88727edc00a35117.jpg);
 {
     width: 700px;
     height: 305px;
-background: #e8d98e;
+background: #bffd9fc2;
 }
 
 
@@ -416,7 +420,7 @@ background: #e8d98e;
 {
 	width: 922px;
     height: 130px;
-     background: #e8d98e;
+     background: #bffd9fc2;
 
      padding-left: 10px;
     padding-top: 10px;
@@ -461,7 +465,7 @@ background: #e8d98e;
 	max-width: 100%;*/
 
 
-   color: #543608;
+   color: #4f524d;
     height: 29px;
 	/*text-align: center;*/
 	padding-top: 7px;
@@ -480,7 +484,7 @@ background: #e8d98e;
 .Cnopki_serii_1
 {
 	cursor: pointer;
-	background-color: #ffae0d;
+	background-color: #bffd9fc2;
 	border-color: #4e4c97;
 	
     border-style: solid;
@@ -495,7 +499,7 @@ background: #e8d98e;
 .Cnopki_serii
 {
    cursor: pointer;
-	background-color: #ffae0d;
+	background-color: #bffd9fc2;
 	border-color: #4e4c97;
 	
     border-style: solid;
@@ -574,12 +578,14 @@ background-size: cover;
 .bloc-zgl-1{
 	padding-left: 20px;
 	margin-top: 10px;
+	padding-right: 50px;
 
 }
 
 .bloc-zgl-2{
 	padding-left: 40px;
 	padding-bottom: 10px;
+	padding-right: 50px;
 }
 
 .bloc-news-1
@@ -681,20 +687,29 @@ background-size: cover;
 	color: white;
 	margin-left: 45px;
 	border-color: #86ff7e;
-	background: #a99ffd5e;
+	background: #bffd9f5e;
     border-style: solid;
     border-radius: 25px;
     border-width: 4px;
     text-align: center;
 }
 
+.bloc-anime-clip
+{
+
+}
 
 
+.anime-clip-1
+{
+	width: 830px;
+  height: 467px;
+}
 
-
-
-
-
+.objct-vdlo
+{
+ margin-bottom: 62px;
+}
 
 
 
@@ -712,9 +727,10 @@ background-size: cover;
 
 .podval
 {
+	margin-top: 35px;
 	width: 100%;
     height: 50px;
-    background-color: #f9f825;
+    background-color: #bffd9fc2;
 }
 
 
